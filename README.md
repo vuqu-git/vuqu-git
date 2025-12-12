@@ -2,15 +2,11 @@
 
 ### 🚀 Über Mich
 
-Ich bin wohnhaft in **Frankfurt am Main** und **suche aktiv eine Einstiegsposition als Junior Software Developer**.
+Meine Reise in die Technologie begann mit dem Informatik-Schulfach der Oberstufe (Pascal & Prolog). Im Studium der Mathematik wählte ich die Optimierung als Schwerpunkt (Matlab) und Informatik als Nebenfach (Java, Datenbanken). Während meiner Berufstätigkeit in der Bankenaufsicht trat die Programmierung leider in den Hintergrund. Ich eignete mir aber VBA an, um kleine, praktische Anwendungen für die Arbeit zu bauen. In meiner Stelle als HR IT-Business Analyst kamen kleinere Skripting-Aufgaben (Batch, Powershell, Python) hinzu.
 
-Meine Reise in die Technologie begann mit dem Informatik-Schulfach der Oberstufe (Pascal & Prolog). Im Studium der Mathematik wählte ich die Optimierung als Schwerpunkt (Matlab) und Informatik als Nebenfach (Java, Datenbanken). Während meiner Berufstätigkeit in der Bankenaufsicht trat die Programmierung leider in den Hintergrund. Ich eignete mir aber VBA an, um kleine, praktische Anwendungen für die Arbeit zu bauen. In meiner Stelle als HR-IT-Manager kamen kleinere Skripting-Aufgaben (Batch, Powershell, Python) hinzu.
+Es fasziniert mich einfach komplexe Probleme zu lösen und innovative Ideen in die Realität umzusetzen – besonders, indem ich eigene Lösungen in Code umsetze und so die digitale Transformation aktiv mitgestalte.
 
-Nun möchte ich den beruflichen Schritt in die Softwareentwicklung wagen! Es fasziniert mich einfach komplexe Probleme zu lösen und innovative Ideen in die Realität umzusetzen – besonders, indem ich eigene Lösungen in Code umsetze und so die digitale Transformation aktiv mitgestalte.
-
-* 🎯 **Berufsziel:** Ich suche eine spannende Herausforderung als **Junior Software Developer**, um mein Wissen in der Fullstack-Entwicklung professionell anzuwenden.
-
-* 🔭 Ich arbeitete zuletzt an der neu erstelleten Webseite meines Ehrenamts www.pupille.org
+* ~~🔭 Ich arbeitete zuletzt an der neu erstelleten Webseite meines Ehrenamts www.pupille.org~~
 
 * 🌱 Aktuell beschäftige ich mich mit dem Thema **RAG und Agentic AI**.
 
