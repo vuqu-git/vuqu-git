@@ -1,4 +1,4 @@
-# Hallo, ich bin Vuong 🙋🏻
+# Hallo 🙋🏻
 
 ### 🚀 Über Mich
 
