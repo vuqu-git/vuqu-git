@@ -6,11 +6,11 @@ Meine Reise in die Technologie begann mit dem Informatik-Schulfach der Oberstufe
 
 Es fasziniert mich einfach komplexe Probleme zu lösen und innovative Ideen in die Realität umzusetzen – besonders, indem ich eigene Lösungen in Code umsetze.
 
-*~~🔭 Ich arbeite anktuell an der neuen Webseite meines Ehrenamts www.pupille.org~~
+~~🔭 Ich arbeite anktuell an der neuen Webseite meines Ehrenamts www.pupille.org~~
 
-*~~✨ Zurzeit bilde ich beim Thema **RAG und Agentic AI** fort und baue kleine LLM-powered Anwendungen.~~
+~~✨ Zurzeit bilde ich beim Thema **RAG und Agentic AI** fort und baue kleine LLM-powered Anwendungen.~~
 
-* 🌱 Momentan beschäftige ich mich mit [SAS (Statistical Analysis System)](https://en.wikipedia.org/wiki/SAS_(software)).
+🌱 Momentan beschäftige ich mich mit [SAS (Statistical Analysis System)](https://en.wikipedia.org/wiki/SAS_(software)).
 
 ### 💻 Tech Stack & Tools
 
